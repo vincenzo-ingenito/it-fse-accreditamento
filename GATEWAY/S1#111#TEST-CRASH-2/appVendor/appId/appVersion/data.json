@@ -6,8 +6,8 @@
 		{
 			"id": 6,
             "ts":"Mon, 19 May 2025 15:26:25 GMT",
-			"traceId": "e5806f409bc6241096b5494d6bb83314",
-			"workflowInstanceId":"2.16.840.1.113883.2.9.2.120.4.4.b0f3ffcf25ce2aafc7dc901e2febc51f43837f4ca0fe3b6d1b02194e9047b6db.b32abbcdb1^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+			"traceId": "f4661611a11fc852365c4383b0924992",
+			"workflowInstanceId":"2.16.840.1.113883.2.9.2.120.4.4.b0f3ffcf25ce2aafc7dc901e2febc51f43837f4ca0fe3b6d1b02194e9047b6db.0683a787ae^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
 		}
 	]
 }
